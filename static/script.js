@@ -1,0 +1,1 @@
+// JavaScript content from the root script.js file should be here.
